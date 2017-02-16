@@ -1,4 +1,4 @@
-<p>Over the years, research has been done to discover why it was so difficult to broaden participation in the sciences. Studies analyzed the lack of underrepresented minorities in scientific undergraduate, graduate, and doctoral programs. In 2014, the National Science Foundation (NSF) <a href="http://www.nsf.gov/awardsearch/showAward?AWD_ID=1447326">funded</a> a new way of looking at the issue: finding what has worked to broaden participation in the past, and how to continue to broaden participation in the future.</p>
+<p>Over the years, research has been done to discover why it was so difficult to broaden participation in the sciences. Studies analyzed the lack of underrepresented minorities in scientific undergraduate, graduate, and doctoral programs. In 2014, the National Science Foundation (NSF) <a href="http://www.nsf.gov/awardsearch/showAward?AWD_ID=1447326"><u>funded</u></a> a new way of looking at the issue: finding what has worked to broaden participation in the past, and how to continue to broaden participation in the future.</p>
 
 <h4>What is WhatWorks?</h4>
 
