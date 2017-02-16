@@ -1,46 +1,65 @@
-<p>Over the years, research has been done to discover why it was so difficult to broaden participation in the sciences. Studies analyzed the lack of underrepresented minorities in scientific undergraduate, graduate, and doctoral programs. In 2014, the National Science Foundation (NSF) <a href="http://www.nsf.gov/awardsearch/showAward?AWD_ID=1447326"><u>funded</u></a> a new way of looking at the issue: finding what has worked to broaden participation in the past, and how to continue to broaden participation in the future.</p>
+# Forty - Jekyll Theme
 
-<h4>What is WhatWorks?</h4>
+A Jekyll version of the "Forty" theme by [HTML5 UP](https://html5up.net/).  
 
-<p>This website is a resource for research, education, and collaboration for broadening participation in the field of environmental biology. WhatWorks gives you access to tools and techniques used by previously and currently successful mentors of underrepresented minorities, as well as personal stories and tips for future or current mentors looking to broaden participation.</p>
+![Forty Theme](assets/images/forty.jpg "Forty Theme")
 
-<h3>To download a FREE copy of the <em>What Works</em>&nbsp;book, <a href="https://whatworks.hub.ki/community/publications/2" target="_blank"><u>click here</u></a>!</h3>
+# How to Use
+
+For those unfamiliar with how Jekyll works, check out [jekyllrb.com](https://jekyllrb.com/) for all the details, 
+or read up on just the basics of [front matter](https://jekyllrb.com/docs/frontmatter/), [writing posts](https://jekyllrb.com/docs/posts/), 
+and [creating pages](https://jekyllrb.com/docs/pages/).
+
+- **GitLab**: Simply fork this repository and start editing the `_config.yml` file!  
+- **GitHub**: Fork this reposity and create a branch named `gh-pages`, then start editing the `_config.yml` file! The `.gitlab-ci.yml` file is only needed for GitLab Pages, so feel free to delete this if you are using GitHub instead.
+
+# Added Features
+
+* **[Formspree.io](https://formspree.io/) contact form integration** - just add your email to the `_config.yml` and it works!
+* Use `_config.yml` to **set whether the homepage tiles should pull pages or posts**, as well as how many to display.
+* Add your **social profiles** easily in `_config.yml`. Only social profiles buttons you enter in `config.yml` show up on the site footer!
+* Set **featured images** in front matter.
+
+# Credits
+
+Original README from HTML5 UP:
+
+```
+Forty by HTML5 UP
+html5up.net | @ajlkn
+Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 
 
-## Welcome to GitHub Pages
+This is Forty, my latest and greatest addition to HTML5 UP and, per its incredibly
+creative name, my 40th (woohoo)! It's built around a grid of "image tiles" that are
+set up to smoothly transition to secondary landing pages (for which a separate page
+template is provided), and includes a number of neat effects (check out the menu!),
+extra features, and all the usual stuff you'd expect. Hope you dig it!
 
-You can use the [editor on GitHub](https://github.com/julia-figs/what-works/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
+you can use for pretty much whatever.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+(* = not included)
 
-### Markdown
+AJ
+aj@lkn.io | @ajlkn
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+Credits:
 
-# Header 1
-## Header 2
-### Header 3
+	Demo Images:
+		Unsplash (unsplash.com)
 
-- Bulleted
-- List
+	Icons:
+		Font Awesome (fortawesome.github.com/Font-Awesome)
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+	Other:
+		jQuery (jquery.com)
+		html5shiv.js (@afarkas @jdalton @jon_neal @rem)
+		background-size polyfill (github.com/louisremi)
+		Misc. Sass functions (@HugoGiraudel)
+		Respond.js (j.mp/respondjs)
+		Skel (skel.io)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/julia-figs/what-works/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Repository [Jekyll logo](https://github.com/jekyll/brand) icon licensed under a [Creative Commons Attribution 4.0 International License](http://choosealicense.com/licenses/cc-by-4.0/).
