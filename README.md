@@ -4,7 +4,7 @@
 
 <p>This website is a resource for research, education, and collaboration for broadening participation in the field of environmental biology. WhatWorks gives you access to tools and techniques used by previously and currently successful mentors of underrepresented minorities, as well as personal stories and tips for future or current mentors looking to broaden participation.</p>
 
-<h3 style="text-align: center;">To download a FREE copy of the <em>What Works</em>&nbsp;book, <a href="https://whatworks.hub.ki/community/publications/2" target="_blank">click here</a>!</h3>
+<h3>To download a FREE copy of the <em>What Works</em>&nbsp;book, <a href="https://whatworks.hub.ki/community/publications/2" target="_blank"><u>click here</u></a>!</h3>
 
 
 ## Welcome to GitHub Pages
